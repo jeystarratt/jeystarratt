@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jennifer (she/her)</h1>
-<h3 align="center">An iOS Engineer from Vancouver, WA</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/14265046/99157506-3f059f80-267e-11eb-945c-ffb4552c6bd3.png" alt="Jennifer Starratt"/>
+</p>
+<h3 align="center">An iOS Engineer from Vancouver, WA (she/her)</h3>
 <p align="center">
   <a href="https://mailchimp.com" target="_blank"><img src="https://img.shields.io/badge/mailchimp-%23FFE01B.svg?&style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp"/></a>
 </p>
