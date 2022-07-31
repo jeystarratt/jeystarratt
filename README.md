@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/14265046/99157506-3f059f80-267e-11eb-945c-ffb4552c6bd3.png" alt="Jey Starratt"/>
+  <img src="https://user-images.githubusercontent.com/14265046/182035968-233089c5-1210-4531-8dc7-8b8716452499.png" alt="Jey Starratt"/>
 </p>
 <h3 align="center">(they/she) An iOS Engineer from Portland, OR</h3>
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <h3 align="left">Connect</h3>
-<a href="https://twitter.com/jrstarratt" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://linkedin.com/in/jrstarratt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jeystarratt" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/jeystarratt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <h3 align="left">Languages, Platforms, and Tools</h3>
 <p align="left">
