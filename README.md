@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Connect</h3>
-<a href="https://twitter.com/jeystarratt" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://mastodon.social/@jeystarratt" target="_blank"><img src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 <a href="https://linkedin.com/in/jeystarratt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <h3 align="left">Languages, Platforms, and Tools</h3>
