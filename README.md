@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/14265046/182035968-233089c5-1210-4531-8dc7-8b8716452499.png" alt="Jey Starratt"/>
 </p>
-<h3 align="center">(they/them) An iOS Engineer from Portland, OR</h3>
+<h3 align="center">An iOS Engineer from Portland, OR</h3>
 <p align="center">
   <a href="https://mailchimp.com" target="_blank"><img src="https://img.shields.io/badge/mailchimp-%23FFE01B.svg?&style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp"/></a>
 </p>
